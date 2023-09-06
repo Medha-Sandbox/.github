@@ -12,3 +12,6 @@
 -->
 
 ### This is it, I had to add it to /profile/README.md to make it appear on the main page. 
+
+To create a main page or a README for an organization - create a repo with the name .github and add the file /profile/README.md
+This file will de displayed on the main page of the organization.
